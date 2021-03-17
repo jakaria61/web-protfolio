@@ -1,0 +1,87 @@
+.jakaria{
+   
+  
+}
+.jak{
+    color: red;
+    font-size: 60px;
+    font-family: 'Oswald', sans-serif;
+    line-height:20px;
+    padding: 50px;
+    
+}
+.col{
+    color:cyan;
+}
+.container{
+    display: flex;
+    padding: 100px;
+    
+   
+}
+.container2 img{
+    height: 800px;
+  width: 500px;
+  border: 50px solid white;
+  border-radius:200px;
+ 
+  
+ 
+}
+.container3{
+    display: flex;
+    
+   
+}
+.container3 img{
+    height: 400px;
+  width: 400px;
+  border: 50px solid white;
+  border-radius:500px;  
+}
+.aboutp{
+    padding:150px;
+}
+.main-container{
+    margin-left:130px;
+    margin-right: 100px;
+}
+.middle{
+    margin: 10px;
+}
+.middle1{
+    display: flex;
+    background-color: rgb(160, 143, 143);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 1px solid black;
+   
+    
+}
+.middle1 img{
+    height: 200px;
+    width: 300px;
+}
+.work{
+    margin-right: 100px;
+    margin-left: 100px;
+    display: flex;
+}
+.jj{
+    border: 1 px solid black;
+}
+.foot{
+    text-align: center;
+   color: chocolate;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   background-color: rgb(194, 194, 194);
+   padding: 50px;
+   font-size: 30px;
+}
+.jaka{
+    text-align: center;
+}
+.butt{
+  background-color: red;
+  color: aqua;
+}
